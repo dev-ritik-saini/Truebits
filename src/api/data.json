@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "countryName": "World",
+    "capital": "No Capital",
+    "population": "Null",
+    "interestingFact": "There are 195 countries in the world today, including 193 United Nations member states and 2 observer states."
+  },
+  {
+    "id": 2,
+    "countryName": "Nepal",
+    "capital": "Kathmandu",
+    "population": 29609623,
+    "interestingFact": "Nepal is home to Mount Everest, the tallest mountain in the world, standing at 8,848 meters."
+  },
+  {
+    "id": 3,
+    "countryName": "Egypt",
+    "capital": "Cairo",
+    "population": 104258327,
+    "interestingFact": "The Pyramids of Giza are one of the Seven Wonders of the Ancient World."
+  },
+  {
+    "id": 4,
+    "countryName": "Australia",
+    "capital": "Canberra",
+    "population": 25687041,
+    "interestingFact": "Australia is home to the Great Barrier Reef, the largest coral reef system in the world."
+  },
+  {
+    "id": 5,
+    "countryName": "Brazil",
+    "capital": "Brasilia",
+    "population": 213993437,
+    "interestingFact": "Brazil is home to the Amazon Rainforest, the largest tropical rainforest in the world."
+  },
+  {
+    "id": 6,
+    "countryName": "France",
+    "capital": "Paris",
+    "population": 67407241,
+    "interestingFact": "The Eiffel Tower in Paris was once the tallest man-made structure in the world."
+  },
+  {
+    "id": 7,
+    "countryName": "Russia",
+    "capital": "Moscow",
+    "population": 146171015,
+    "interestingFact": "Russia is the largest country in the world by area, covering more than 17 million square kilometers."
+  },
+  {
+    "id": 8,
+    "countryName": "China",
+    "capital": "Beijing",
+    "population": 1444216107,
+    "interestingFact": "The Great Wall of China stretches over 21,000 kilometers."
+  },
+  {
+    "id": 9,
+    "countryName": "India",
+    "capital": "New Delhi",
+    "population": 1417173173,
+    "interestingFact": "India is the birthplace of four major world religions: Hinduism, Buddhism, Jainism, and Sikhism."
+  },
+  {
+    "id": 10,
+    "countryName": "Japan",
+    "capital": "Tokyo",
+    "population": 125836021,
+    "interestingFact": "Japan is made up of over 6,800 islands."
+  },
+  {
+    "id": 11,
+    "countryName": "Germany",
+    "capital": "Berlin",
+    "population": 83240525,
+    "interestingFact": "Germany is home to the world's largest beer festival, Oktoberfest."
+  },
+  {
+    "id": 12,
+    "countryName": "United States",
+    "capital": "Washington, D.C.",
+    "population": 331893745,
+    "interestingFact": "The United States is the third most populous country in the world."
+  },
+  {
+    "id": 13,
+    "countryName": "United Kingdom",
+    "capital": "London",
+    "population": 68207116,
+    "interestingFact": "The UK is made up of four countries: England, Scotland, Wales, and Northern Ireland."
+  },
+  {
+    "id": 14,
+    "countryName": "Italy",
+    "capital": "Rome",
+    "population": 60244639,
+    "interestingFact": "Rome is home to Vatican City, the smallest independent state in the world."
+  },
+  {
+    "id": 15,
+    "countryName": "Canada",
+    "capital": "Ottawa",
+    "population": 38048738,
+    "interestingFact": "Canada has more lakes than the rest of the world's lakes combined."
+  },
+  {
+    "id": 16,
+    "countryName": "South Africa",
+    "capital": "Pretoria",
+    "population": 59308690,
+    "interestingFact": "South Africa has three capital cities: Pretoria, Cape Town, and Bloemfontein."
+  },
+  {
+    "id": 17,
+    "countryName": "Mexico",
+    "capital": "Mexico City",
+    "population": 128932753,
+    "interestingFact": "Mexico introduced chocolate, corn, and chili peppers to the world."
+  },
+  {
+    "id": 18,
+    "countryName": "Saudi Arabia",
+    "capital": "Riyadh",
+    "population": 35340680,
+    "interestingFact": "Saudi Arabia is home to Mecca, the holiest city in Islam."
+  },
+  {
+    "id": 19,
+    "countryName": "Argentina",
+    "capital": "Buenos Aires",
+    "population": 45195774,
+    "interestingFact": "Argentina is famous for tango music and dance."
+  },
+  {
+    "id": 20,
+    "countryName": "South Korea",
+    "capital": "Seoul",
+    "population": 51780579,
+    "interestingFact": "South Korea is one of the most technologically advanced countries in the world."
+  }
+]
