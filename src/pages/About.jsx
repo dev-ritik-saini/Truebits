@@ -10,8 +10,9 @@ const About = () => {
 
       <div className="gradient-cards">
         {facts.map((country) => {
-          const { id, countryName, capital, population, intrestingFact } =
+          const { id, countryName, capital, population, interestingFact } =
             country;
+          console.log(interestingFact);
 
           return (
             <div className="card" key={id}>
@@ -27,7 +28,7 @@ const About = () => {
                 </p>
                 <p>
                   <span className="card-description">Intresting Fact:</span>
-                  {intrestingFact}
+                  {interestingFact}
                 </p>
               </div>
             </div>
